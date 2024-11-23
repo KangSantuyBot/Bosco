@@ -1,4 +1,4 @@
-#### NO MORE UPDATES IN BOSCO ...COMING WITH A NEW BOT SOON🙂💖
+#### NO MORE UPDATES IN GoGoSonic ...COMING WITH A NEW BOT SOON🙂💖
 #### HOW TO DEPLOY ?? [` CLICK HERE TO WATCH TUTORIAL ✨`](https://youtu.be/ZJQ50wYh7dc) 
 
 
