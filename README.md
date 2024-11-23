@@ -70,7 +70,7 @@ pkg install bash
 git clone https://github.com/pepesir/GoGoSonic.git 
 ```
 ```
-cd Bosco
+cd GoGoSonic
 ```
 ```
 bash install.sh
